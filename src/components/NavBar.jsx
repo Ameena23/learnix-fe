@@ -125,7 +125,7 @@ export default function Navbar({ onToggle }) {
         {/* TITLE */}
         <div className="navbar-title">
           <span className="title-icon">📊</span>
-          <span className="title-text">Student Analytics</span>
+          <span className="title-text">Student Analytics abcd </span>
         </div>
 
         {/* ACTIONS */}
@@ -244,7 +244,7 @@ export default function Navbar({ onToggle }) {
                         <FiClock />
                       </div>
                       <div className="stat-content">
-                        <h3>Today</h3>
+                        <h3>Today dfsgdnhfjg</h3>
                         <p>Last Login</p>
                       </div>
                     </div>
