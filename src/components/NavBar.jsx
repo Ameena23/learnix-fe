@@ -245,7 +245,7 @@ export default function Navbar({ onToggle }) {
                       </div>
                       <div className="stat-content">
                         <h3>Today dfsgdnhfjg</h3>
-                        <p>Last Login</p>
+                        <p>Last efdvbhbgb Login</p>
                       </div>
                     </div>
 
