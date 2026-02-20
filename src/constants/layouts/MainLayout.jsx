@@ -12,8 +12,6 @@ import {
   FiLock
 } from "react-icons/fi";
 import "./MainLayout.css";
-import ChatBot from "../components/ChatBot.jsx";
-
 
 export default function MainLayout({ children }) {
   const [collapsed, setCollapsed] = useState(false);
@@ -88,9 +86,7 @@ export default function MainLayout({ children }) {
         />
 
         <main className="page-content">{children}</main>
-        <ChatBot />
       </div>
-
     </div>
   );
 }
